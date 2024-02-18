@@ -8,8 +8,8 @@ from PIL import Image
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # 定义两个文件夹的路径，你可以修改成你自己的路径
-folder1_path = "./images1/"
-folder2_path = "./images2/"
+folder1_path = "D:/Users/juzi45/Pictures/fy/"
+folder2_path = "D:/Users/juzi45/Pictures/流萤/"
 
 # 定义相似度的阈值，越小越严格
 threshold = 5
